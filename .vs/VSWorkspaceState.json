@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\services",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\breadcrumbs",
+    "\\src\\app\\shared\\sidebar"
+  ],
+  "SelectedNode": "\\src\\app\\shared\\breadcrumbs\\breadcrumbs.component.ts",
+  "PreviewInSolutionExplorer": false
+}
