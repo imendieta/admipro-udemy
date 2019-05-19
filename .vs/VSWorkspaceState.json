@@ -3,11 +3,9 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\services",
-    "\\src\\app\\shared",
-    "\\src\\app\\shared\\breadcrumbs",
-    "\\src\\app\\shared\\sidebar"
+    "\\src\\app\\pages",
+    "\\src\\app\\shared"
   ],
-  "SelectedNode": "\\src\\app\\shared\\breadcrumbs\\breadcrumbs.component.ts",
+  "SelectedNode": "\\src\\app\\pages\\pages.module.ts",
   "PreviewInSolutionExplorer": false
 }
